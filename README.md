@@ -1,6 +1,6 @@
 # Elm Webpack Seed
 
-Overally basic elm webpack seed project.
+Overaly basic elm webpack seed project.
 
 Once all dependencies are downloaded you can run:
 
